@@ -1,0 +1,4 @@
+0.3.0
+1. add argument 'tmin' for storing gained minimal BIC.
+2. add function summary.nmcd() for more information of 'nmcd' object,
+   with minimal BIC returnd,too.

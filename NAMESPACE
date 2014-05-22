@@ -1,0 +1,8 @@
+useDynLib(nmcdr)
+export('isp',
+'nmcd')
+importFrom("CDFt",'CramerVonMisesTwoSamples')
+S3method(print,nmcd)
+S3method(plot,nmcd)
+S3method(plot,isp)
+S3method(summary,nmcd)

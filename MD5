@@ -1,0 +1,9 @@
+fe07d5160e6c3df229a1949f9311a3fb *DESCRIPTION
+4c9a528a72b654446bfbd41f82cf3978 *NAMESPACE
+2e326ad73ac5cc286f487e62d43e6b42 *NEWS
+37018ac2c9a82c041b62d2766c3f981c *R/nmcd.R
+aa002520520519fa0fc47d7a97ec426a *data/Blocks.rda
+2378a56461b14ddefe0b94b441240d1a *man/Blocks.Rd
+08fc97ada8fe55afafe59d9c671e297f *man/isp.Rd
+687d1a632dc7e43995dacf7cc8f3f862 *man/nmcd.Rd
+e21e1c6145adf1f93e1bb7f0edd2d835 *src/nadpb_v0.3.f90
